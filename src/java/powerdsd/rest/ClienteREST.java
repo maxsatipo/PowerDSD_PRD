@@ -23,7 +23,7 @@ import java.util.List;
  *        client.close();
  * </pre>
  *
- * @author u05521
+ * @author Max
  */
 public class ClienteREST {
     private WebResource webResource;
